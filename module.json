@@ -1,6 +1,6 @@
 {
-  "id": "fr-core",
-  "title": "FR - Traduction du core",
+  "id": "fr-core-mcgregor777",
+  "title": "FR - Ma traduction du core",
   "version": "#{VERSION}#",
   "description": "<p>Traduction en Français du Core FoundryVTT.</p> <p> *** Rejoignez la communauté Discord FR - La Fonderie - :<a href='https://discord.gg/pPSDNJk'> https://discord.gg/pPSDNJk </a></p>",
   "compatibility": {
@@ -63,7 +63,9 @@
     },
     {
       "name": "DjLeChuck"
-    }
+    },
+	{
+      "name": "McGregor777"
   ],
   "scripts": [],
   "styles": [],
@@ -108,6 +110,4 @@
     }
   ],
   "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#"
-}
+  "manifest": "
